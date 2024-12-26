@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 50px;
+    background-image: linear-gradient(90deg,rgb(209, 156, 58) 10%,rgb(204, 91, 109) 20%,rgb(203, 51, 162) 50%);
+    opacity: 0.9;
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+}
+.bi-twitter{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    align-items: center;
+}
+.bi-instagram{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    align-items: center;
+}
+.bi-facebook{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    align-items: center;
+}
+.bi-youtube{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    align-items: center;
+}
+.bi-pinterest{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    align-items: center;
+}
+.bi-linkedin{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    align-items: center;
+}
+.phone{
+    display: flex;
+    flex-direction: row;
+}
+.bi-telephone-plus{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 190px;
+    align-items: center;
+}
+.bi-envelope-at-fill{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 90px;
+    align-items: center;
+}
+.butt{
+    background-color: rgb(203, 51, 162);
+    margin-left:90px;
+    border: 2px solid whitesmoke;
+    color: white;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bi-terminal-plus{
+    font-size: 30px;
+    margin-left: 150px;
+    color:orange;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: inline-block;
+    margin-top: 5px;
+   
+}
+.para{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 30px;
+    display: inline-block;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+h3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: inline-block;
+    margin-left: 50px;
+    cursor: pointer;
+}
+#buy{
+    background-color: yellow;
+    height: 20px;
+    width: 75px;
+}
+.image{
+    background-image: url(1000_F_270.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    width:1000px;
+    background-size: cover;
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    opacity: 0.9;
+    position: relative;
+}
+#arsh{
+    display: inline-block;
+    margin-left: 1000px;
+    margin-top: 100px;
+    display: flex;
+    font-size: 25px;
+}
+.nall{
+    display: flex;
+    flex-direction:row ;
+}
+.read{
+    margin-left: 1000px;
+    height: 40px;
+    width: 90px;
+    border-radius: 20px;
+    background-color: palevioletred;
+    border-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: inline-block;
+}
+.write{
+    margin-left: 70px;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    border-color: palevioletred;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: inline-block;
+    margin-top:0;
+}
+.secondlast{
+    height: 100px;
+    background-image: linear-gradient(90deg,rgb(209, 156, 58) 0%,rgb(204, 91, 109) 20%,rgb(203, 51, 162) 50%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+}
+.bi-rocket-takeoff{
+    font-size: large;
+    margin-left: 200px;
+    color: whitesmoke;
+    font-style: unset;
+}
+.bi-headphones{
+    font-size: large;
+    margin-left: 200px;
+    color: whitesmoke;
+    font-style: unset;
+}
+.bi-stopwatch{
+    font-size: large;
+    margin-left: 200px;
+    color: whitesmoke;
+    font-style: unset;
+}
+.cry{
+    background-color: rgb(221, 228, 228);
+    height: 200px;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    margin-left: 200px;
+    margin-top: 10px;
+    display: inline;
+    display: flex;
+    flex-direction: row;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-image: url(productivity.jpg);
+    height: 150px;
+    width: 900px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 49px;
+    margin-left: 00px;
+    position: relative;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-image: url(pexels-fauxels-3184338.jpg);
+    height: 150px;
+    width: 900px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin-left: 180px;
+    position: relative;
+}
+#ariel{
+    margin-left: 200px;
+}
